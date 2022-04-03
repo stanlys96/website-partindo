@@ -265,6 +265,10 @@ form .form-control {
   background-size: cover;
 }
 
+.contact .contactContent h1 {
+  color: #fff;
+}
+
 .contact .contactContent h2 {
   font-size: 36px;
   font-weight: 500;
