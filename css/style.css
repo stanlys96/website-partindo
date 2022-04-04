@@ -197,6 +197,9 @@ section {
     border-radius: 100px;
 }
 
+.wa-number {
+  color: #fff;
+}
 
 .social-icons {
     display: flex;
