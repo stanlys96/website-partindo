@@ -9,6 +9,11 @@
     --box-shadow: 0 8px 22px rgba(0,0,0,0.1);
 }
 
+.img-1,
+.img-4 {
+  height: 346px;
+}
+
 body {
     font-family: "Sora", sans-serif;
     line-height: 1.7;
@@ -58,7 +63,7 @@ img {
 }
 
 .hero {
-    background-image: url(../img/img-1.jpeg);
+    background-image: url(../img/img-1.jpg);
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
